@@ -1,0 +1,10 @@
+{
+  "name": "cosmoicons",
+  "version": "0.0.1",
+  "description": "The ultimate collection of sleek, modern icons for web and mobile. Elevate your UI with cosmoicons.",
+  "main": "index.js",
+  "repository": "git@github.com:cosmoui/cosmoicons.git",
+  "author": "Massinissa Amalou",
+  "license": "MIT",
+  "private": false
+}
